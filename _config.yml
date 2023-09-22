@@ -15,14 +15,15 @@ links:
     url:          /about
     external:     false
   - name:         About Truffle
-    url:          aboutme.html
+    url:          /aboutme.html
     external:     false
+
   - name:         SNS
     url:          https://m.cmx.im/@laksanity
     external:     true
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+permalink:        /posts/:coucou
 defaults:
   - values:
       layout: "default"
