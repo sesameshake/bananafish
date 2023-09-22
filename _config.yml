@@ -23,7 +23,7 @@ links:
     external:     true
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:coucou
+permalink:        /posts/:
 defaults:
   - values:
       layout: "default"
