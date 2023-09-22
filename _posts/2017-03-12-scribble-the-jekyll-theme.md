@@ -1,31 +1,35 @@
 ---
 title: Yet another Jekyll theme
-date: 2017-03-12 00:06:52
+date: 2027-03-12 00:06:52
 ---
 
 Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in.
 
-## Get started
+## Coucou!
 
-1. [Fork the repository](https://github.com/muan/scribble/fork)
 
-2. Clone the repository: `git clone https://github.com/username/scribble`
-
-3. Run `bundle install`
-
-4. Run Jekyll: `jekyll serve -w`
-
-5. Go to http://localhost:4000 for your site.
+            <p>Coucou! Tout le monde! </p>
+            <p>C'est Laksa. J'habite à Tokyo maintenent. </p>
+            <p>J’aime beaucoup SKAM France (mais ce n’est pas un film, c’est un téléfilm), et mon film préféré pour cette année est Monster(怪物), c'est une histoire de deux garçons. </p>
+            <h3>Pourqoi?</h3>
+            <p>I start wondering, why 80% of  my self-aware practices ended up with looping self indulgence? </p>
+            <p>ok, maybe it's because it costs too little to be self-indulgent. self indulgence is identified as emotional drama, emotional loops, emotional nonsense, which is to explain, to accept, inwardly. 
+                Whereas self-awareness is to examine, to change, to act, outwardly. 
+                So, how about starting blog? Voila! </p>
 
 ---
 
-## Make it yours
+## Moi?
 
-1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
+C'est Laksa. J'habite à Tokyo maintenent.
 
-2. Change `about.md` for blog intro
+I start wondering, why 80% of  my self-aware practices ended up with looping self indulgence? 
 
-3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+ok, maybe it's because it costs too little to be self-indulgent. self indulgence is identified as emotional drama, emotional loops, emotional nonsense, which is to explain, to accept, inwardly. 
+
+Whereas self-awareness is to examine, to change, to act, outwardly. 
+                
+                So, how about starting blog? Voila! 
 
 ---
 
