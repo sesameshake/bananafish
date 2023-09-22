@@ -9,7 +9,7 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
-    url:          /_post
+    url:          /_posts
     external:     false
   - name:         About laksa
     url:          /about
