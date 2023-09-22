@@ -14,6 +14,9 @@ links:
   - name:         About laksa
     url:          /about
     external:     false
+  - name:         About Truffle
+    url:          aboutme.html
+    external:     false
   - name:         SNS
     url:          https://m.cmx.im/@laksanity
     external:     true
