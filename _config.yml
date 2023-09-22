@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Coucou!"
 description:      "c'est un croissant à la Truffle"
-url:              https://github.com/sesameshake/bananafish.github.io # Site url, without a slash at the end.
+url:              https://sesameshake.github.io/bananafish.github.io/ # Site url, without a slash at the end.
 signoff:          "laksa" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
@@ -9,13 +9,13 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
-    url:          /_posts
+    url:          /
     external:     false
   - name:         About laksa
     url:          /about
     external:     false
-  - name:         About Truffle
-    url:          /aboutme.html
+  - name:         How abour some Truffle? 
+    url:          /aboutme
     external:     false
 
   - name:         SNS
